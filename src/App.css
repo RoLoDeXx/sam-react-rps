@@ -2,10 +2,8 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background: #f4f4f4;
 }
 
 .App-header {
@@ -19,15 +17,70 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.weapons {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.scoreCard {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  color: white;
+  padding: 1rem 2.5rem;
+  background: #3a3a3a;
+  outline: none;
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+button:active {
+  background: #042739;
+}
+
+.headerSection {
+  background: #0f0f0f;
+  color: #f4f4f4;
+}
+
+.headerSection h1 {
+  margin: 0;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+span {
+  font-size: 2rem;
+}
+
+.footer {
+  background: #3a3a3a;
+  color: white;
+  padding: 2rem 3rem;
+}
+
+img {
+  height: 4rem;
+  padding: 1rem;
+  border-radius: 50px;
+}
+
+.credits {
+  background: #0f0f0f;
+  color: white;
+  padding: 2rem;
+  margin: 0;
+}
+
+html {
+  background: #0f0f0f;
 }
