@@ -11,7 +11,6 @@ export default function Footer() {
         game. The rules are "Rock beats Scissors , Scissors beat Paper and Paper
         beats Rock". Whoever wins 5 Rounds wins.
       </div>
-      <p className="credits">Made with ❤ by Samarth Sharma</p>
     </div>
   );
 }
