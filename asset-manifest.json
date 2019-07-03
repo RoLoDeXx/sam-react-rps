@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sam-react-rps/static/css/main.7efbdb8d.chunk.css",
+    "main.js": "/sam-react-rps/static/js/main.0787d3b6.chunk.js",
+    "main.js.map": "/sam-react-rps/static/js/main.0787d3b6.chunk.js.map",
+    "runtime~main.js": "/sam-react-rps/static/js/runtime~main.fe972661.js",
+    "runtime~main.js.map": "/sam-react-rps/static/js/runtime~main.fe972661.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/sam-react-rps/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/sam-react-rps/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/sam-react-rps/index.html",
+    "precache-manifest.59c4f7fee1a6e3a9c4bae0995050f7d7.js": "/sam-react-rps/precache-manifest.59c4f7fee1a6e3a9c4bae0995050f7d7.js",
+    "service-worker.js": "/sam-react-rps/service-worker.js",
+    "static/css/main.7efbdb8d.chunk.css.map": "/sam-react-rps/static/css/main.7efbdb8d.chunk.css.map"
+  }
+}
